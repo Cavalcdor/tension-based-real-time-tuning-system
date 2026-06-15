@@ -1,0 +1,17 @@
+# MATLAB
+*.mat
+*.fig
+*.asv
+slprj/
+sfprj/
+
+# Results
+Results/*
+
+# Temp
+*.log
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
