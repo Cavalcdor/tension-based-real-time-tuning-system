@@ -2,6 +2,8 @@
 
 # Tension-Based Real-Time Tuning System for Guitar String Vibration Analysis
 
+[![License](https://img.shields.io/badge/License-MIT-64748B?style=flat-square)](LICENSE)
+
 ![Language: MATLAB](https://img.shields.io/badge/Language-MATLAB-E16737?style=flat-square) ![Topic: Numerical Methods](https://img.shields.io/badge/Topic-Numerical%20Methods-4B5563?style=flat-square) ![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
 
 *Numerical Computation Methods course project.*
@@ -85,3 +87,7 @@ The RK4 simulation uses 1 ms steps. Spline smoothing reduces high-frequency nois
 The original author states that the code, documentation and experiment design were independently completed using course material and published literature, with external references acknowledged in code or documentation.
 
 **Author:** Charles Weng. **Date:** 2025-04-05.
+
+## License and rights
+
+Original project code and documentation are provided under the [MIT License](LICENSE), retaining the original author attribution to Charles Weng. Third-party publications and other externally sourced materials under `References/` or elsewhere are not relicensed by this notice and remain subject to their original terms.

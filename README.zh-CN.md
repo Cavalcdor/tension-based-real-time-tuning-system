@@ -2,6 +2,8 @@
 
 # Tension-Based Real-Time Tuning System for Guitar String Vibration Analysis
 
+[![License](https://img.shields.io/badge/License-MIT-64748B?style=flat-square)](LICENSE)
+
 ![Language: MATLAB](https://img.shields.io/badge/Language-MATLAB-E16737?style=flat-square) ![Topic: Numerical Methods](https://img.shields.io/badge/Topic-Numerical%20Methods-4B5563?style=flat-square) ![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
 
 *Numerical Computation Methods Course Project*
@@ -145,3 +147,7 @@ Tension-Based_Real-Time_Tuning_System/
 
 **声明人**：Charles Weng
 **日期**：2025-04-05
+
+## 许可与权利范围
+
+本项目原创代码和文档采用 [MIT 许可证](LICENSE)，保留原作者 Charles Weng 的署名。`References/` 等目录中的第三方文献及其他外部资料不因此重新授权，仍遵循原有权利与使用条款。
