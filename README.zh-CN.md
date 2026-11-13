@@ -2,6 +2,8 @@
 
 # Tension-Based Real-Time Tuning System for Guitar String Vibration Analysis
 
+![Language: MATLAB](https://img.shields.io/badge/Language-MATLAB-E16737?style=flat-square) ![Topic: Numerical Methods](https://img.shields.io/badge/Topic-Numerical%20Methods-4B5563?style=flat-square) ![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
+
 *Numerical Computation Methods Course Project*
 
 ## 1. 项目概述
